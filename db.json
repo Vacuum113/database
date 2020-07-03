@@ -4,12 +4,12 @@
         { "id": 2, "name": "Краснодарский край", "FederalDistrict": "Южный", "areaId": 2},
         { "id": 3, "name": "Республика Татарстан", "FederalDistrict": "Приволжский", "areaId": 3}
     ], 
-    "SKUs": [
+    "skus": [
         { "id": 1, "name": "Имя 1", "inn" : "Эсмолол", "key": "УТ000192660", "nomenclature": "Бревикард р-р для в/в вв 1% 10мл амп №5", "dosage": 10, "quantity": 5},
         { "id": 2, "name": "Имя 2", "inn" : "Гранисетрон",  "key": "ЦБ-00001555", "nomenclature": "Авомит конц д/приг р-ра д/инф 1мг/мл 3мл №1", "dosage": 3, "quantity": 1},
         { "id": 3, "name": "Имя 3", "inn" : "Цефотаксим+[Сульбактм]" , "key": "УТ000174230", "nomenclature": "Кларуктам пор д/приг р-ра для в/в и в/м вв 1тыс_мг+500мг фл №1", "dosage": 0, "quantity": 1}
     ], 
-    "IASs": [
+    "iass": [
         { "id": 1, "mnn": "Артикаин+[Эпинефрн]", "dosageForm": "р-р д/ин.", "dosageFormShort": "р-р", "dosage": "40 мг/мл + 0.01 мг/мл 1.8 мл №50", "dosageShort": "40 мг/мл + 0.01 мг/мл 1.8 мл", "dosageQuantity": 50},
         { "id": 2, "mnn": "Артикаин+[Эпинефрн]", "dosageForm": "р-р д/ин.", "dosageFormShort": "р-р", "dosage": "40 мг/мл + 0.01 мг/мл 1.7 мл №100", "dosageShort": "40 мг/мл + 0.01 мг/мл 1.7 мл", "dosageQuantity": 100},
         { "id": 3, "mnn": "Вода", "dosageForm": "растворит. д/лек. форм  д/ин.", "dosageFormShort": "жидк.", "dosage": "500 мл №1", "dosageShort": "500 мл", "dosageQuantity": 1}
