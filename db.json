@@ -46,7 +46,7 @@
       "nomenclature": "Кларуктам пор д/приг р-ра для в/в и в/м вв 1тыс_мг+500мг фл №1",
       "dosage": 0,
       "quantity": 1
-    },
+    }
   ],
   "IASs": [
     {
@@ -56,7 +56,7 @@
       "dosageFormShort": "р-р",
       "dosage": "40 мг/мл + 0.01 мг/мл 1.8 мл №50",
       "dosageShort": "40 мг/мл + 0.01 мг/мл 1.8 мл",
-      "dosageQuantity": 50,
+      "dosageQuantity": 50
     },
     {
       "id": 2,
@@ -65,7 +65,7 @@
       "dosageFormShort": "р-р",
       "dosage": "40 мг/мл + 0.01 мг/мл 1.7 мл №100",
       "dosageShort": "40 мг/мл + 0.01 мг/мл 1.7 мл",
-      "dosageQuantity": 100,
+      "dosageQuantity": 100
     },
     {
       "id": 3,
@@ -74,8 +74,8 @@
       "dosageFormShort": "жидк.",
       "dosage": "500 мл №1",
       "dosageShort": "500 мл",
-      "dosageQuantity": 1,
-    },
+      "dosageQuantity": 1
+    }
   ],
   "LPUs": [
     {
@@ -141,6 +141,6 @@
       "id":3,
       "firstName": "Рима",
       "secondName": "Кдюкевич"      
-    },
+    }
   ]
 }
