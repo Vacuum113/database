@@ -11,7 +11,7 @@
     ], 
     "iass": [
         { "id": 1, "mnn": "Артикаин+[Эпинефрн]", "dosageForm": "р-р д/ин.", "dosageFormShort": "р-р", "dosage": "40 мг/мл + 0.01 мг/мл 1.8 мл №50", "dosageShort": "40 мг/мл + 0.01 мг/мл 1.8 мл", "dosageQuantity": 50, "skuId": 1, "isMapped": true },
-        { "id": 2, "mnn": "Артикаин+[Эпинефрн]", "dosageForm": "р-р д/ин.", "dosageFormShort": "р-р", "dosage": "40 мг/мл + 0.01 мг/мл 1.7 мл №100dasdasdadasdasdasdasdasdasdassdadasddasdasd", "dosageShort": "40 мг/мл + 0.01 мг/мл 1.7 мл", "dosageQuantity": 100, "skuId": 2, "isMapped": true },
+        { "id": 2, "mnn": "Артикаин+[Эпинефрн]", "dosageForm": "р-р д/ин.", "dosageFormShort": "р-р", "dosage": "40 мг/мл + 0.01 мг/мл 1.7 мл №100", "dosageShort": "40 мг/мл + 0.01 мг/мл 1.7 мл", "dosageQuantity": 100, "skuId": 2, "isMapped": true },
         { "id": 3, "mnn": "Вода", "dosageForm": "растворит. д/лек. форм  д/ин.", "dosageFormShort": "жидк.", "dosage": "500 мл №1", "dosageShort": "500 мл", "dosageQuantity": 1, "skuId": 1, "isMapped": true }
     ],
     "areas": [
